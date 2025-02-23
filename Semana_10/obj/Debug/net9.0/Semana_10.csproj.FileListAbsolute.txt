@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\bin\Debug\net9.0\Semana_10.exe
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\bin\Debug\net9.0\Semana_10.deps.json
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\bin\Debug\net9.0\Semana_10.runtimeconfig.json
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\bin\Debug\net9.0\Semana_10.dll
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\bin\Debug\net9.0\Semana_10.pdb
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\Semana_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\Semana_10.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\Semana_10.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\Semana_10.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\Semana_10.dll
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\refint\Semana_10.dll
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\Semana_10.pdb
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\Semana_10.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Escritorio\ESTRUCTURA_DATOS\Parcial_2\Parcial2_estructura\Semana_10\obj\Debug\net9.0\ref\Semana_10.dll
